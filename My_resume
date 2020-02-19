@@ -11,6 +11,7 @@
 <img src="/home/6CSE3/Documents/20171cse0180/animal.jpg" alt="workspace" usemap="#workmap" />
 <map name="workmap">
 <area shape="rect" coords="46,132,112,248" href="https://en.wikipedia.org/wiki/Lion" alt="Lion">
+<area shape="rect" coords="268,91,356,144" href="https://en.wikipedia.org/wiki/Elephant" alt="Elephant">
 </map>
 <span style="color:black">
 <div>
