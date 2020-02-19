@@ -8,9 +8,10 @@
 
 <body bgcolor="orange" style="background-image:url('/home/6CSE3/Documents/358836.jpg')" width=5000 height=50000 >
 <h1>&ltCSE&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPresidency&nbspUniversity,Rajanakunte<sup>&copy</sup>&gt</h1>
-<center><img src="/home/6CSE3/Documents/20171cse0180/animal.jpg" alt="workspace" usemap="workmap" /></center>
+<img src="/home/6CSE3/Documents/20171cse0180/animal.jpg" alt="workspace" usemap="#workmap" />
 <map name="workmap">
-<area shape="rect" coords="46,132,112,248"
+<area shape="rect" coords="46,132,112,248" href="https://en.wikipedia.org/wiki/Lion" alt="Lion">
+</map>
 <span style="color:black">
 <div>
 <h2>Proffesional summary</h2>
