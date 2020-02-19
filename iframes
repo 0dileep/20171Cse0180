@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>HTML iframes</title>
+</head>
+<body>
+<p>Document content goes here, can be included in body </p>
+<iframe src="file:///home/6CSE3/Documents/20171cse0180/My_resume" name="iframe_a" width="450" height ="300"> sorry your browser does not support inline frames </iframe>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<html>
+<head>
+ <title>MY Resume</title>
+ <link ref="stylesheet" type="test/css" href="/home/6CSE3/Documents/20171cse0180/mystyle.css"/>
+</head>
+
+<body style="background-image:url('/home/6CSE3/Documents/20171cse0180/358836.jpg')" width=5000 height=50000 >
+<img src="/home/6CSE3/Documents/20171cse0180/animal.jpg" width=300 height=150 style="float:right" />
+<h1><b>Dilip Kumar T</b></h1>
+<a href="mailto:dileepmass00@gmail.com"><span style="color:blue"><U><b>dileepmass00@gmail.com</b></u></span></a>
+<br><br>
+<p1>+91-1234567890</p1>
+<br>
+<br>
+<br>
+<br>
+<hr></hr>
+<span style="color:black">
+
+<div class="black">
+<h2>CV <i>Highlights</i></h2>
+<marquee direction="right">
+<ul>
+<li>Learnt basic PYTHON, JavaScript, C, HTML.</li>
+<li>Good programming skills,leadership quality,risk management.</li>
+<li>Currently perceiving B.tech in CSE in Presidency University.</li>
+<li>Currently going through CSE256-Internet Technologies</li>
+</marquee>
+</div>
+
+<div>
+<h2>Proffesional Experience</h2>
+<marquee direction="left">
+<ul>
+<b><li>Wingify software pvt ltd-Support Engineer(Technical support)</li></b>
+<br>
+<b><li>Wingify software pvt ltd-Support Engineer(Technical support)</li></b>
+</marquee>
+</div>
+
+<div>
+<h2>Eduation</h2>
+<ul>
+<table border="1" cellpadding = "5" cellspacing = "5" bgcolor = "white" width="500">
+<tr>
+<th>Qualification Board </th>
+<th>PU </th>
+</tr>
+<tr>
+<td><center>R.T Nagar Institutions</center></td>
+<td><center>St.Joseph's Instituitons</center></td>
+</tr>
+<tr>
+<td><center>86%</center></td>
+<td><center>74%</center></td>
+</tr>
+</table>
+</ul>
+
+<div>
+<h2>Skills</h2>
+<ul>
+<li>Active Listening.</li>
+<li>Communication.</li>
+<li>Customer Service.</li>
+</ul>

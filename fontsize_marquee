@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>HTML Font size</title>
+</head>
+<body bgcolor="dodgerblue">
+ <marquee direction="right"><font size = "2">SIZE=2 So I got in touch with a select group of professional resume writers, coaches</font><br/></marquee>
+ <marquee direction="bottom"><font size = "4">SIZE=4 and career experts to get their best resume</font><br/></marquee>
+ <hr></hr>
+ <marquee direction="right"><h1 style="background-color:rgb(255,91,77);">There are a couple big reasons your resume summary statement (or your CV “profile” if you’re in the UK) is so important</font></marquee>
+ <marquee direction="up"><font size = "6">SIZE=6 and career experts to get their best resume</font></marquee><br/>
+ <hr></hr>
+ <marquee direction="left"><p style="font-family:courier;">This is a example for style.<br/>(font family:courier)</p></marquee>
+ <marquee direction="up"><h1 style="background-color:hsla(120,40%,44%);">There are a couple big reasons your resume summary statement (or your CV “profile” if you’re in the UK) is so important</font></marquee>
+ <hr></hr>
+</body>
+</html>
